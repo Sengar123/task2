@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    
+}
+
+#chocolate-options {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chocolate-option {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#selected-chocolates {
+    margin-top: 20px;
+}
